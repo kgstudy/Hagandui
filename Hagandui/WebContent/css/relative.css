@@ -1,0 +1,6 @@
+@media all and (max-width: 1350px) { 
+	.about_section .content_section .img_wrap { width: 45%; }
+	.about_section .content_section .content_wrap { width: 45%; }
+	.board_section .content_section .content_wrap { width: 45%; }
+	.board_section .content_section .list_wrap { width: 45%; }
+}
